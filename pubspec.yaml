@@ -1,7 +1,7 @@
 name: flml_web_sidemenu
 description: This is a web sidemenu package. It has lot of customizations.
 version: 0.0.1
-repository: https://github.com/FirstLogicMetaLabPvtLTD/flml_internet_checker
+repository: https://github.com/FirstLogicMetaLabPvtLTD/flml_web_sidemenu
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
