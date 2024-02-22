@@ -12,7 +12,7 @@ Add the `flml_web_sidemenu` package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  flml_web_sidemenu: ^0.0.1
+  flml_web_sidemenu: ^0.0.3
 ```
 
 ### 2. Import the package

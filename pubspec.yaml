@@ -1,6 +1,6 @@
 name: flml_web_sidemenu
 description: This is a web sidemenu package. It has lot of customizations.
-version: 0.0.2
+version: 0.0.3
 repository: https://github.com/FirstLogicMetaLabPvtLTD/flml_web_sidemenu
 
 environment:
